@@ -1,0 +1,22 @@
+dependencies: \
+  /Users/eugene/TestDebugger/node_modules/react-native/React/Views/ScrollView/RCTScrollContentView.m \
+  /Users/eugene/TestDebugger/node_modules/react-native/React/Views/ScrollView/RCTScrollContentView.h \
+  /Users/eugene/TestDebugger/node_modules/react-native/React/Views/RCTView.h \
+  /Users/eugene/TestDebugger/node_modules/react-native/React/Views/RCTBorderStyle.h \
+  /Users/eugene/TestDebugger/node_modules/react-native/React/Views/RCTComponent.h \
+  /Users/eugene/TestDebugger/node_modules/react-native/React/Views/RCTPointerEvents.h \
+  /Users/eugene/TestDebugger/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/eugene/TestDebugger/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/eugene/TestDebugger/node_modules/react-native/React/Views/UIView+React.h \
+  /Users/eugene/TestDebugger/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/eugene/TestDebugger/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/eugene/TestDebugger/node_modules/react-native/React/Views/ScrollView/RCTScrollView.h \
+  /Users/eugene/TestDebugger/node_modules/react-native/React/Views/RCTAutoInsetsProtocol.h \
+  /Users/eugene/TestDebugger/node_modules/react-native/React/Base/RCTEventDispatcher.h \
+  /Users/eugene/TestDebugger/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/eugene/TestDebugger/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/eugene/TestDebugger/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Users/eugene/TestDebugger/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/eugene/TestDebugger/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/eugene/TestDebugger/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/eugene/TestDebugger/node_modules/react-native/React/Views/ScrollView/RCTScrollableProtocol.h
